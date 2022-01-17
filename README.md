@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sam Hämäläinen
+- 🏫 I'm currently studying at Metropolia University of Applied Sciences, majoring on Mobiles development
+- 👀 I’m interested in technology and programming.
+- 🌱 I’m currently learning React Native, React, JavaScript and more
